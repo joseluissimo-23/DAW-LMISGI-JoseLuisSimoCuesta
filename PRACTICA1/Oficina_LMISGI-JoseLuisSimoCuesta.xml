@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<oficina>
+  <empleat>
+  <nom>Anna</nom>
+  <cognom>García</cognom>
+  <edad>30</edad>
+  <carrec departament="vendes">comercial</carrec>
+  </empleat>
+  
+  <empleat>
+    <nom>María</nom>
+    <cognom>Lopis</cognom>
+    <edad>28</edad>
+    <carrec departament="màrqueting"></carrec>
+    </empleat>
+    
+    <empleat>
+      <nom>Lluís</nom>
+      <cognom>Rodríguez</cognom>
+      <edad>45</edad>
+      <carrec departament="finances">analista</carrec>
+      </empleat>
+      
+      </oficina>
