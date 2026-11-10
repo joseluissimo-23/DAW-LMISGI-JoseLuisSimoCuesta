@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<horari>
+    <dia nom="Dilluns">
+      <classe inici="8:00" fi="9:00">Matemàtiques</classe>
+      <classe inici="9:00" fi="10:00">Anglès</classe>
+    </dia>
+    
+    <dia nom="Dimarts">
+      <classe inici="10:00" fi="111:00">Història</classe>
+    </dia>
+  </horari>
